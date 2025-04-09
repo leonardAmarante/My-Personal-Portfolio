@@ -1,12 +1,49 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+md
+Copy
+# My Personal Portfolio
 
-Currently, two official plugins are available:
+Welcome to the repository of my personal portfolio website, built with React. This portfolio showcases my projects, skills, and experience as a developer.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📁 Table of Contents
 
-## Expanding the ESLint configuration
+- [🚀 Demo](#-demo)
+- [✨ Features](#-features)
+- [🛠 Getting Started](#-getting-started)
+  - [🔧 Prerequisites](#-prerequisites)
+  - [📦 Installation](#-installation)
+  - [▶️ Usage](#-usage)
+- [📂 Project Structure](#-project-structure)
+- [🧰 Technologies Used](#-technologies-used)
+- [🤝 Contributing](#-contributing)
+- [📝 License](#-license)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Demo
+
+You can view the live version of my portfolio at:  
+**[https://www.myportfolio.com](https://www.myportfolio.com)**
+
+## ✨ Features
+
+* **Responsive Design** – Optimized for both desktop and mobile devices.
+* **Interactive UI** – Smooth animations and transitions.
+* **Project Showcase** – Dedicated sections with project details and links.
+* **Contact Form** – Lets visitors send messages directly.
+
+## 🛠 Getting Started
+
+Follow the steps below to set up and run this project locally.
+
+### 🔧 Prerequisites
+
+Make sure you have the following installed:
+
+* Node.js
+* npm or yarn
+
+### 📦 Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/leonardAmarante/My-Personal-Portfolio.git
