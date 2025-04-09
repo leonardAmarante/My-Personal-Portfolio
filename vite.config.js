@@ -9,6 +9,9 @@ export default defineConfig({
     port: 3000,       // Default Vite port, change if needed
   },
  
-    base: "/your-repo/"
+      base: './',
+  build: {
+    outDir: 'dist'
+  }
  
 })
