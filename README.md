@@ -21,7 +21,7 @@ Welcome to the repository of my personal portfolio website, built with React. Th
 ## 🚀 Demo
 
 You can view the live version of my portfolio at:  
-**[https://www.myportfolio.com](https://www.myportfolio.com)**
+**URL"leonard-amarante-portfolio.netlify.app"**
 
 ## ✨ Features
 
