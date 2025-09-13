@@ -14,25 +14,25 @@ export default function ProjectCard(props) {
 
     // Switch case to assign values based on the project description
     switch (props.description) {
-        case "Password Project":
+        case "Password Generator":
             spanName = ["Html", "Css", "Javascript"]; // Technologies used
             projectImg = passwordProjectImg; // Project image
             projectUrl = "https://leonardamarante.github.io/Password-Generator/"; // Project URL
             break;
 
-        case "Feed-Me Project":
+        case "Feed-Me":
             spanName = ["Html", "Css", "Javascript"]; // Technologies used
             projectImg = feedMeImg; // Project image
             projectUrl = "https://alexbrandt.net/Project-01--Feed.me";
             break;
 
-        case "Weather Project":
+        case "Weather Finder":
             spanName = ["Html", "Css", "Javascript", "Boostrap"]; // Technologies used
             projectImg = weatherImg; // Project image
             projectUrl = "https://leonardamarante04.github.io/Weather-Finder/"; // Project URL
             break;
 
-        case "Admin-Panel Project":
+        case "Admin-Panel Inapi":
             spanName = ["Html", "Css", "Javascript", "Boostrap", "ReactJs"]; // Technologies used
             projectImg = adminPanelImg; // Project image
             projectUrl = "#"; // Project URL
@@ -49,13 +49,10 @@ export default function ProjectCard(props) {
         );
     });
 
-    // Log the spanName for debugging (can be removed in production)
-    console.log(spanName);
-
     // Return the JSX for the ProjectCard component
     return (
         <div className="col-12 col-md-3 col-lg-3 mb-6 text-center">
-            <span className="fs-4">{props.description}:</span> {/* Display project description */}
+            <p className="fs-4 pe-0 pe-lg-5 text-white mb-2">{props.description}:</p> {/* Display project description */}
             <div className="project-background">
                 <a href={projectUrl} target="blank_" aria-label={`View ${props.description}`}>
                     <img className="img-fluid" src={projectImg} alt={`${props.description} image`} />

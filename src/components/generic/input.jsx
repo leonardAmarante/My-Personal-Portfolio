@@ -2,18 +2,19 @@ export default function Input({ containerClass, labelText, inputClass, name, pla
     return (
         // Wrapper div for styling and layout
         <div className={containerClass}>
-            
+
             {/* Label wrapping the input field */}
             <label className="input-container">
                 {labelText}
-                
+
                 {/* Input Field */}
-                <input 
-                    className={inputClass} 
-                    name={name} 
-                    placeholder={placeholder} 
+                <input
+                    className={inputClass}
+                    name={name}
+                    placeholder={placeholder}
                     type={type}
-                    required
+                    require
+                    autoComplete="off"
                 />
             </label>
         </div>

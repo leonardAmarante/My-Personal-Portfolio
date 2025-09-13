@@ -3,7 +3,7 @@ import profileImg from "../assets/leonard-amarante.jpg";
 export default function AboutMe() {
     return (
         // About Me Section
-        <section className="row ms-lg-2 animatedAbout mb-6" id="aboutMe">
+        <section className="row ms-lg-2 animatedAbout mb-7" id="aboutMe">
 
             {/* Left Content - About Me Text */}
             <div className="animationAboutMe about-me-content col-lg-7 d-flex flex-column align-items-center align-items-lg-start mb-5">

@@ -1,13 +1,13 @@
 import Input from "../components/generic/input";
 
 export default function ContactSection() {
-    const formspreeUrl = import.meta.env.VITE_FROMSPREE_URL;  
+    const formspreeUrl = import.meta.env.VITE_FROMSPREE_URL;
     // Handles form submission
     function formHandling(event) {
         event.preventDefault();  // Prevents page refresh
 
-       return formspreeUrl;
-       
+        return formspreeUrl;
+
     }
 
     return (
@@ -15,7 +15,7 @@ export default function ContactSection() {
             {/* Contact Form */}
             <form
                 className="block form-content row d-flex justify-content-center mb-7"
-                 action={formspreeUrl}
+                action={formspreeUrl}
                 method="POST"
                 id="contact"
             >
