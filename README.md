@@ -37,9 +37,9 @@
 │-- README.md
 │-- vite.config.js
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshot:
 
-* Include some images of your portfolio UI here.
+![alt text](image.png)
 
 ## 📜 Installation & Setup
 
