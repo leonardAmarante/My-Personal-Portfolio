@@ -20,11 +20,9 @@
 
 ## 🛠 Tech Stack
 
-* Frontend: React, Vite, Tailwind CSS
+* Frontend: React, Vite, Bootstrap
 
-* Backend (if applicable): Node.js, Express
-
-* Deployment: Vercel / Netlify / GitHub Pages
+* Deployment: Netlify / GitHub Pages
 
 ## 📂 Project Structure
 
@@ -56,10 +54,10 @@
 
 ### Feel free to reach out!
 
-* Email: your-email@example.com
+* Email: LeonardAmarante32@gmail.com
 
 * GitHub: @leonardAmarante
 
-* LinkedIn: Your Profile
+* LinkedIn: https://www.linkedin.com/in/leonard-amarante-46a06b359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ✨ Built with passion and creativity!
