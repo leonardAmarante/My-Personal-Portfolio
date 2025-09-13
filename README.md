@@ -60,4 +60,8 @@
 
 * LinkedIn: https://www.linkedin.com/in/leonard-amarante-46a06b359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
+
+## PORTFOLIO URL:
+https://leonard-amarante-portfolio.netlify.app/
+
 ✨ Built with passion and creativity!
